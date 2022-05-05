@@ -6,7 +6,7 @@ Primero se ingresará los números N vertices y M aristas, luego se ingresaran l
 Luego de las M aristas se ingresa el vertice inicial y el final del recorrido.
 
 # Ejemplo
-https://github.com/Hamgalex/Algoritmo-Dijkstra/blob/master/ejemplo.png
+![ejemplo](https://github.com/Hamgalex/Algoritmo-Dijkstra/blob/master/ejemplo.png)
 
 Para este ejemplo la entrada para saber el camino de 0 a 7 sería:
 
